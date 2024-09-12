@@ -45,6 +45,7 @@ Python, Numpy, Pandas
 - English - B2
 - Miro, Jira, Trello
 
+[PDF](Пикуров_Даниил_Резюме.pdf)
 <!--
 **Pikudan/Pikudan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
