@@ -43,7 +43,6 @@ Python, Numpy, Pandas
 - Machine Learning
 - Deep Learning (NLP, Computer Vision)
 - Pytorch, Tensorflow, Scikit-learn, OpenCV, SciPy, Numpy, Pandas,
-- AirFlow, MLFlow
 - Алгоритмы и структуры данных
 - Git, Bash, Linux, Docker
 - Fast API, Google Cloud
