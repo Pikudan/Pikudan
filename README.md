@@ -2,10 +2,12 @@
 Привет! Я Даниил Пикуров, инженер по компьютерному зрению с опытом работы в области машинного обучения и глубокого обучения. В этом репозитории вы найдете мое резюме и информацию о моих проектах. 
 
 **Data Scientist**  
-Россия, Москва  
-@Pikudan  
-[pikurovd@mail.ru](mailto:pikurovd@mail.ru)  
-+7(903) 541-70-54  
+
+## Контактная информация
+- **Email**: [pikurovd@mail.ru](mailto:pikurovd@mail.ru)
+- **Телефон**: +7(903) 541-70-54
+- **GitHub**: [@Pikudan](https://github.com/Pikudan)
+  
 ## Experience
 
 ### InsightAi (Январь 2024 — н.в.)
