@@ -50,7 +50,7 @@ Python, Numpy, Pandas
 - English - B2
 - Miro, Jira, Trello
 
-[Резюме](https://github.com/Pikudan/Resume/blob/8efc515f1280e96e15c338a56dec59a153ba5bda/%D0%9F%D0%B8%D0%BA%D1%83%D1%80%D0%BE%D0%B2%20%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB%20%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5.pdf)
+[Резюме](https://github.com/Pikudan/Resume/blob/b1dbe947d39e81823d209994c192129c6e62e75f/%D0%9F%D0%B8%D0%BA%D1%83%D1%80%D0%BE%D0%B2%20%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB.%20%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20ML%20%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80.pdf)
 <!--
 **Pikudan/Pikudan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
